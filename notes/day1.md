@@ -41,3 +41,5 @@ to install Git klik this [link](https://github.com/git-for-windows/git/releases/
 ### Coba Cek
 
 tuuh kaan
+
+ini ngetik yg salah, abis ini kita ilangin
